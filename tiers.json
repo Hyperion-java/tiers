@@ -1,36 +1,156 @@
 {
   "players": {
-    "PlayerName1": {
-      "sword": { "kills": 12, "tier": "D2-1" },
-      "axe": { "kills": 5, "tier": "D2-2" },
-      "mace": { "kills": 2, "tier": "D3-1" },
-      "spear": { "kills": 1, "tier": "D3-2" },
-      "tnt_minecart": { "kills": 0, "tier": "D4-1" },
-      "average_tier": "D2-2"
+    "dev_hyper1on": {
+      "sword": { "kills": 120, "tier": "HT1-1" },
+      "axe": { "kills": 95, "tier": "HT1-2" },
+      "mace": { "kills": 60, "tier": "HT1-2" },
+      "spear": { "kills": 40, "tier": "HT1-3" },
+      "tnt_minecart": { "kills": 25, "tier": "HT2-1" },
+      "average_tier": "HT1-2"
     },
-    "PlayerName2": {
-      "sword": { "kills": 3, "tier": "D3-2" },
-      "axe": { "kills": 2, "tier": "D3-3" },
-      "mace": { "kills": 0, "tier": "D4-2" },
-      "spear": { "kills": 0, "tier": "D4-3" },
-      "tnt_minecart": { "kills": 1, "tier": "D3-3" },
-      "average_tier": "D3-3"
+    "Technoblade": {
+      "sword": { "kills": 110, "tier": "HT1-1" },
+      "axe": { "kills": 80, "tier": "HT1-2" },
+      "mace": { "kills": 55, "tier": "HT1-2" },
+      "spear": { "kills": 35, "tier": "HT1-3" },
+      "tnt_minecart": { "kills": 20, "tier": "HT2-1" },
+      "average_tier": "HT1-2"
     },
-    "PlayerName3": {
-      "sword": { "kills": 25, "tier": "D1-2" },
-      "axe": { "kills": 10, "tier": "D1-3" },
-      "mace": { "kills": 5, "tier": "D2-1" },
-      "spear": { "kills": 3, "tier": "D2-2" },
-      "tnt_minecart": { "kills": 2, "tier": "D2-3" },
+    "Dream": {
+      "sword": { "kills": 105, "tier": "HT1-2" },
+      "axe": { "kills": 70, "tier": "HT1-3" },
+      "mace": { "kills": 50, "tier": "HT1-3" },
+      "spear": { "kills": 30, "tier": "HT2-1" },
+      "tnt_minecart": { "kills": 18, "tier": "HT2-2" },
+      "average_tier": "HT1-3"
+    },
+    "Marlowww": {
+      "sword": { "kills": 60, "tier": "LT1-1" },
+      "axe": { "kills": 45, "tier": "LT1-2" },
+      "mace": { "kills": 20, "tier": "LT1-3" },
+      "spear": { "kills": 10, "tier": "LT2-1" },
+      "tnt_minecart": { "kills": 5, "tier": "LT2-2" },
+      "average_tier": "LT1-2"
+    },
+    "ItzRealMe": {
+      "sword": { "kills": 30, "tier": "D1-2" },
+      "axe": { "kills": 22, "tier": "D1-3" },
+      "mace": { "kills": 15, "tier": "D2-1" },
+      "spear": { "kills": 8, "tier": "D2-2" },
+      "tnt_minecart": { "kills": 4, "tier": "D2-3" },
       "average_tier": "D1-3"
     },
-    "PlayerName4": {
-      "sword": { "kills": 1, "tier": "D4-2" },
-      "axe": { "kills": 0, "tier": "D4-3" },
-      "mace": { "kills": 0, "tier": "D4-3" },
-      "spear": { "kills": 0, "tier": "D4-3" },
-      "tnt_minecart": { "kills": 0, "tier": "D4-3" },
-      "average_tier": "D4-3"
+    "Sapnap": {
+      "sword": { "kills": 90, "tier": "HT1-2" },
+      "axe": { "kills": 65, "tier": "HT1-3" },
+      "mace": { "kills": 40, "tier": "HT2-1" },
+      "spear": { "kills": 25, "tier": "HT2-2" },
+      "tnt_minecart": { "kills": 10, "tier": "HT2-3" },
+      "average_tier": "HT1-3"
+    },
+    "GeorgeNotFound": {
+      "sword": { "kills": 75, "tier": "HT1-3" },
+      "axe": { "kills": 50, "tier": "HT2-1" },
+      "mace": { "kills": 30, "tier": "HT2-2" },
+      "spear": { "kills": 20, "tier": "HT2-3" },
+      "tnt_minecart": { "kills": 8, "tier": "HT3-1" },
+      "average_tier": "HT2-1"
+    },
+    "TommyInnit": {
+      "sword": { "kills": 65, "tier": "HT2-1" },
+      "axe": { "kills": 40, "tier": "HT2-2" },
+      "mace": { "kills": 25, "tier": "HT2-3" },
+      "spear": { "kills": 15, "tier": "HT3-1" },
+      "tnt_minecart": { "kills": 6, "tier": "HT3-2" },
+      "average_tier": "HT2-2"
+    },
+    "WilburSoot": {
+      "sword": { "kills": 40, "tier": "LT1-2" },
+      "axe": { "kills": 25, "tier": "LT1-3" },
+      "mace": { "kills": 10, "tier": "LT2-1" },
+      "spear": { "kills": 5, "tier": "LT2-2" },
+      "tnt_minecart": { "kills": 2, "tier": "LT2-3" },
+      "average_tier": "LT1-3"
+    },
+    "Tubbo": {
+      "sword": { "kills": 55, "tier": "HT2-2" },
+      "axe": { "kills": 35, "tier": "HT2-3" },
+      "mace": { "kills": 20, "tier": "HT3-1" },
+      "spear": { "kills": 10, "tier": "HT3-2" },
+      "tnt_minecart": { "kills": 4, "tier": "HT3-3" },
+      "average_tier": "HT2-3"
+    },
+    "Eret": {
+      "sword": { "kills": 20, "tier": "D2-2" },
+      "axe": { "kills": 15, "tier": "D2-3" },
+      "mace": { "kills": 8, "tier": "D3-1" },
+      "spear": { "kills": 4, "tier": "D3-2" },
+      "tnt_minecart": { "kills": 1, "tier": "D3-3" },
+      "average_tier": "D2-3"
+    },
+    "BadBoyHalo": {
+      "sword": { "kills": 35, "tier": "LT2-1" },
+      "axe": { "kills": 20, "tier": "LT2-2" },
+      "mace": { "kills": 12, "tier": "LT2-3" },
+      "spear": { "kills": 6, "tier": "LT3-1" },
+      "tnt_minecart": { "kills": 3, "tier": "LT3-2" },
+      "average_tier": "LT2-2"
+    },
+    "FoolishG": {
+      "sword": { "kills": 80, "tier": "HT1-3" },
+      "axe": { "kills": 60, "tier": "HT2-1" },
+      "mace": { "kills": 45, "tier": "HT2-2" },
+      "spear": { "kills": 25, "tier": "HT2-3" },
+      "tnt_minecart": { "kills": 12, "tier": "HT3-1" },
+      "average_tier": "HT2-1"
+    },
+    "Quackity": {
+      "sword": { "kills": 50, "tier": "HT2-2" },
+      "axe": { "kills": 30, "tier": "HT2-3" },
+      "mace": { "kills": 18, "tier": "HT3-1" },
+      "spear": { "kills": 10, "tier": "HT3-2" },
+      "tnt_minecart": { "kills": 5, "tier": "HT3-3" },
+      "average_tier": "HT2-3"
+    },
+    "Fruitberries": {
+      "sword": { "kills": 95, "tier": "HT1-2" },
+      "axe": { "kills": 75, "tier": "HT1-3" },
+      "mace": { "kills": 55, "tier": "HT2-1" },
+      "spear": { "kills": 35, "tier": "HT2-2" },
+      "tnt_minecart": { "kills": 15, "tier": "HT2-3" },
+      "average_tier": "HT1-3"
+    },
+    "Purpled": {
+      "sword": { "kills": 85, "tier": "HT1-3" },
+      "axe": { "kills": 65, "tier": "HT2-1" },
+      "mace": { "kills": 40, "tier": "HT2-2" },
+      "spear": { "kills": 25, "tier": "HT2-3" },
+      "tnt_minecart": { "kills": 10, "tier": "HT3-1" },
+      "average_tier": "HT2-1"
+    },
+    "Ranboo": {
+      "sword": { "kills": 45, "tier": "LT1-3" },
+      "axe": { "kills": 28, "tier": "LT2-1" },
+      "mace": { "kills": 15, "tier": "LT2-2" },
+      "spear": { "kills": 8, "tier": "LT2-3" },
+      "tnt_minecart": { "kills": 3, "tier": "LT3-1" },
+      "average_tier": "LT2-1"
+    },
+    "Slimecicle": {
+      "sword": { "kills": 25, "tier": "D2-3" },
+      "axe": { "kills": 18, "tier": "D3-1" },
+      "mace": { "kills": 10, "tier": "D3-2" },
+      "spear": { "kills": 5, "tier": "D3-3" },
+      "tnt_minecart": { "kills": 2, "tier": "D4-1" },
+      "average_tier": "D3-1"
+    },
+    "Philza": {
+      "sword": { "kills": 70, "tier": "HT2-1" },
+      "axe": { "kills": 50, "tier": "HT2-2" },
+      "mace": { "kills": 30, "tier": "HT2-3" },
+      "spear": { "kills": 18, "tier": "HT3-1" },
+      "tnt_minecart": { "kills": 7, "tier": "HT3-2" },
+      "average_tier": "HT2-2"
     }
   }
 }
